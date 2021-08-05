@@ -4,7 +4,7 @@ The application takes patient information and guides him through different the a
 
 ## Building Process
 
-This project was build by two People me(sidhartha Parasramka) and my teammate(soumya Agrawal) as project to demonstrate our skills that we have mastered during our 2nd year in the college
+This project was build by two People me (soumya Agrawal)and my teammate (sidhartha Parasramka)  as project to demonstrate our skills that we have mastered during our 2nd year in the college
 
 We have used various advance concepts such as jawa swings that are widely used in the indusrty.
 markdown
